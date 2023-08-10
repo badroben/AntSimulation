@@ -1,7 +1,5 @@
 # AntSimulation
-Using MATLAB to implement a Genetic Algorithm to build a better ant through evolution
-
-The main task of this program is to attempt building a better ant through evolution using the concept of [Genetic Algorithms](https://en.wikipedia.org/wiki/Genetic_algorithm). 
+This MATLAB program aims to build a more developed ant through evolution using the concept of [Genetic Algorithms](https://en.wikipedia.org/wiki/Genetic_algorithm). 
 
 # Defining the problem 
 Each ant must survive on its own in a world represented by a 2D grid of cells by following trails of food. Each cell in
